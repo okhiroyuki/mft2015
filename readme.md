@@ -80,4 +80,4 @@ Arduino(アルデュイーノ)とは、「初心者でも簡単に扱えるマ�
 
 ワークショップでは、ScratchからArduinoを操作できる拡張機能「[Scratio](http://lets.makewitharduino.com/sample/scratch/index.html)」を活用して、ピタゴラ装置を作っていきます。
 
-*** みなさまのご参加をお待ちしております！ ***
+** みなさまのご参加をお待ちしております！ **
