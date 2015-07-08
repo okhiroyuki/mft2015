@@ -1,32 +1,29 @@
 # ワークショップの内容
-ワークショップでは、Scratch（スクラッチ）、Raspberry Pi（ラズベリー パイ）、Arduino(アルデュイーノ)を使って、プログラミングの楽しさを体験しながら、みんなでピタゴラ装置をつくります（ピタゴラ装置については、[こちら](https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%BF%E3%82%B4%E3%83%A9%E8%A3%85%E7%BD%AE)をご覧ください）  
+ワークショップでは、Scratch（スクラッチ）、Raspberry Pi（ラズベリー パイ）、Arduino(アルデュイーノ)を使って、プログラミングの楽しさを体験しながら、みんなで[ピタゴラ装置](https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%BF%E3%82%B4%E3%83%A9%E8%A3%85%E7%BD%AE)をつくります。
+
+**こちらは、「Arduinoで作るピタゴラ装置」に参加申し込みのページとなります。**
+（「ラズベリーパイで作るビタゴラ装置」は[こちら](https://coderdojo-japan.doorkeeper.jp/events/28108)）
+
 下の画像をクリックすると、実際の様子を動画でご覧いただけます。
+
+- Arduinoで作るピタゴラ装置
+[![ScratchとArduinoで作るピタゴラ装置](http://i.ytimg.com/vi/MTi21UtHbhc/0.jpg)](https://youtu.be/MTi21UtHbhc)
 
 - ラズベリーパイで作るピタゴラ装置
 [![ラズベリーパイで作るピタゴラ装置](http://i.ytimg.com/vi/M5ibKrzqlUg/0.jpg)](https://youtu.be/M5ibKrzqlUg)
 
-- ScratchとArduinoで作るピタゴラ装置
-[![ScratchとArduinoで作るピタゴラ装置](http://i.ytimg.com/vi/MTi21UtHbhc/0.jpg)](https://youtu.be/MTi21UtHbhc)
-
-**こちらは、「ScratchとArduinoで作るピタゴラ装置」に参加申し込みのページとなります。**
-
 # ご用意いただくもの
-本ワークショップは参加費無料となっておりますが、ワークショップに必要な以下の機材は参加者の皆様に用意いただきます。
+本ワークショップは参加費無料となっておりますが、ワークショップにノートパソコンは参加者の皆様に用意いただきます。
 
-- ノートパソコン  
-Windows、Macどちらでも結構ですが、おひとり一台ノートパソコンをお持ちください。  
+- ノートパソコン
+Windows、Macどちらでも結構ですが、おひとり一台ノートパソコンをお持ちください。
 マウス、電源アダプタも忘れずに♪インターネット接続（Wi-Fi）については、会場で用意しております。
 
-- Arduino本体とUSBケーブル  
-ワークショップには、「Arduino Uno」と「USB2.0ケーブル(A-Bタイプ)」が必要になります。  
-以下のサイトなどでセットになったものが購入できますので、お持ちでない方は事前に購入をお願いします。  
-[「Arduinoをはじめようキット」](http://www.amazon.co.jp/dp/B0025Y6C5G)
-
-- ワークショップで利用するソフトウェアのインストール  
+- ワークショップで利用するソフトウェアのインストール
 持参されるパソコンには、以下のソフトウェアをインストールしておいてください。
-	- [Scratch2.0 オフラインエディタ](https://scratch.mit.edu/scratch2download/)
-	- [Arduino IDE 1.6.4](http://www.arduino.cc/en/Main/Software)
-	- [Scratio（ScratchでArduinoを使えるようにするプラグイン）](http://lets.makewitharduino.com/sample/scratch/index.html)  
+- [Scratch2.0 オフラインエディタ](https://scratch.mit.edu/scratch2download/)
+- [Arduino IDE 1.6.4](http://www.arduino.cc/en/Main/Software)
+- [Scratio（ScratchでArduinoを使えるようにするプラグイン）](http://lets.makewitharduino.com/sample/scratch/index.html)
 （[「使い方」](http://lets.makewitharduino.com/sample/scratch/index.html)の説明にある[Scratio.zip](https://github.com/okhiroyuki/Scratio/releases/download/v0.6/Scratio-0.6.zip)をクリックしてダウンロードしてください）
 
 # !!必ずお読みください!!

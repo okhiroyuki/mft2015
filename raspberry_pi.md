@@ -1,20 +1,20 @@
-# ワークショップの内容 
-ワークショップでは、Scratch（スクラッチ）、Raspberry Pi（ラズベリー パイ）、Arduino(アルデュイーノ)を使って、プログラミングの楽しさを体験しながら、みんなでピタゴラ装置をつくります（ピタゴラ装置については、[こちら](https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%BF%E3%82%B4%E3%83%A9%E8%A3%85%E7%BD%AE)をご覧ください）  
+# ワークショップの内容
+ワークショップでは、Scratch（スクラッチ）、Raspberry Pi（ラズベリー パイ）、Arduino(アルデュイーノ)を使って、プログラミングの楽しさを体験しながら、みんなで[ピタゴラ装置](https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%BF%E3%82%B4%E3%83%A9%E8%A3%85%E7%BD%AE)をつくります。
+
+**こちらは、「ラズベリーパイで作るピタゴラ装置」に参加申し込みのページとなります。**
+（「Arduinoで作るビタゴラ装置」は[こちら](https://coderdojo-japan.doorkeeper.jp/events/27756)）
+
 下の画像をクリックすると、実際の様子を動画でご覧いただけます。
 
 - ラズベリーパイで作るピタゴラ装置
 [![ラズベリーパイで作るピタゴラ装置](http://i.ytimg.com/vi/M5ibKrzqlUg/0.jpg)](https://youtu.be/M5ibKrzqlUg)
 
-- ScratchとArduinoで作るピタゴラ装置
-[![ScratchとArduinoで作るピタゴラ装置](http://i.ytimg.com/vi/MTi21UtHbhc/0.jpg)](https://youtu.be/MTi21UtHbhc)
-
-**こちらは、「ラズベリーパイで作るピタゴラ装置」に参加申し込みのページとなります。**
+- Arduinoで作るピタゴラ装置
+[![Arduinoで作るピタゴラ装置](http://i.ytimg.com/vi/MTi21UtHbhc/0.jpg)](https://youtu.be/MTi21UtHbhc)
 
 # ご用意いただくもの
-本ワークショップは参加費無料となっておりますが、ワークショップに必要な以下の機材は参加者の皆様に用意いただきます。
-
-未確定
-
+特にありません。
+必要なものは、すべてこちらでご用意いたします。
 
 # !!必ずお読みください!!
 ## 対象年齢
